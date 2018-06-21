@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demoMVVM</string>
+    <string name="end_game">End game</string>
+    <string name="game_dialog_title">New game</string>
+</resources>
